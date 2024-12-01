@@ -11,7 +11,7 @@ const { Bot } = require('grammy')
 
   let arrTheSearch = {
       max: '99000',
-      min: '79800'
+      min: '80000'
   }
 const bot  = new Bot(process.env.API_BOT)
 
